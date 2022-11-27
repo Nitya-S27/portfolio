@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9bedecc0.css",
+    "main.js": "/static/js/main.ae450e79.js",
+    "static/media/getInTouchBackground.png": "/static/media/getInTouchBackground.e688bf9bf23f1ec46bec.png",
+    "index.html": "/index.html",
+    "main.9bedecc0.css.map": "/static/css/main.9bedecc0.css.map",
+    "main.ae450e79.js.map": "/static/js/main.ae450e79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bedecc0.css",
+    "static/js/main.ae450e79.js"
+  ]
+}
